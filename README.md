@@ -1,5 +1,5 @@
 # Projecy-Ash-Synapses
-nteractive Neural Visualization of Conversation Memory
+Interactive Neural Visualization of Conversation Memory
 Synapses is a specialized engine within the Project Ash ecosystem designed to transform flat, chronological chat logs into a living, multi-dimensional semantic network. By leveraging vector embeddings and force-directed graph theory, it maps the "synaptic" connections between disparate ideas, projects, and timestamps.
 
 🛠 Core Tech Stack
