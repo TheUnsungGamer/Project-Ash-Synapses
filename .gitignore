@@ -1,0 +1,62 @@
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+secrets/
+credentials/
+tokens/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+
+# Node / frontend
+node_modules/
+dist/
+build/
+.next/
+
+# Databases / vector stores
+*.db
+*.sqlite
+*.sqlite3
+chroma/
+chromadb/
+vector_db/
+vectors/
+embeddings/
+
+# AI models / voice assets
+models/
+rvc_models/
+voice_models/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+*.safetensors
+
+# Audio/video captures
+recordings/
+audio_captures/
+clips/
+*.wav
+*.mp3
+*.mp4
+*.avi
+*.mjpeg
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
