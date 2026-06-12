@@ -1,4 +1,4 @@
-https://imgflip.com/gif/au6x8o
+![Project Ash Synapses Demo](assets/project-ash-demo.gif)
 
 
 
