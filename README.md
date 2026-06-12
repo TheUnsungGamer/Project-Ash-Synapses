@@ -1,7 +1,3 @@
-![Project Ash Synapses Demo](assets/project-ash-demo.gif)
-
-
-
 
 # Projecy-Ash-Synapses
 Interactive Neural Visualization of Conversation Memory
@@ -51,3 +47,5 @@ Bash
 python main.py
 📜 Technical Philosophy
 Unlike traditional RAG (Retrieval-Augmented Generation) systems that focus on finding a single answer, Synapses focuses on contextual architecture. It is designed for the "Grounding" of AI agents, giving them a persistent, visualizable map of a user's entire intellectual history.
+
+![Project Ash Synapses Demo](assets/project-ash-demo.gif)
