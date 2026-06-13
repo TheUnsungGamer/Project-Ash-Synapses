@@ -1,4 +1,4 @@
-![Project Ash Synapses Demo](assets/project-ash-demo.gif)
+![Project Ash Synapses Demo]("assets\au84sw.mp4")
 # Project-Ash-Synapses
 Interactive Neural Visualization of Conversation Memory
 Synapses is a specialized engine within the Project Ash ecosystem designed to transform flat, chronological chat logs into a living, multi-dimensional semantic network. By leveraging vector embeddings and force-directed graph theory, it maps the "synaptic" connections between disparate ideas, projects, and timestamps.
