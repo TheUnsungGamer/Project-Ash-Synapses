@@ -60,3 +60,5 @@ clips/
 Thumbs.db
 .vscode/
 .idea/
+data/*.json
+data/*.npy
